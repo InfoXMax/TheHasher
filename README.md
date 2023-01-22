@@ -1,6 +1,7 @@
 # The Hasher
 
-Simple wep app to Hash any text to multiple types .
+Simple wep app to Hash any text to multiple types . <br>
+i already make the same with python you can find it here: [Python The Hasher](https://github.com/InfoXMax/Python-The-Hasher)
 
 
 
